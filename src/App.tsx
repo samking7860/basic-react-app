@@ -5,16 +5,16 @@ import React from 'react';
 // import { Garage } from './Component/Garage';
 // import CustomStyles from './Component/CustomStyles';
 // import Btn from './Component/MUi';
-import { StyledEngineProvider } from '@mui/material/styles';
+// import { StyledEngineProvider } from '@mui/material/styles';
 // import BasicCard from './Component/BasicCard';
 // import OutlinedCard from './Component/OutlineCard';
-import Blinkist from './Component/Blinkist';
+// import Blinkist from './Component/Blinkist';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from './pages/Layout';
 import Home from "./pages/Home";
 import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
-import { Link } from '@mui/material';
+// import { Link } from '@mui/material';
 
 const App:React.FC=()=> {
   return (
